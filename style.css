@@ -80,13 +80,3 @@
   letter-spacing: 6%;
   text-align: left;
 }
-
-#photo {
-  display: flex;
-  justify-content: space-evenly;
-}
-
-#mask {
-  display: flex;
-  justify-content: space-evenly;
-}
