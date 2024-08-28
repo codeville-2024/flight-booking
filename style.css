@@ -83,5 +83,10 @@
 
 #photo {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
+}
+
+#mask {
+  display: flex;
+  justify-content: space-evenly;
 }
