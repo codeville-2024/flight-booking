@@ -214,9 +214,9 @@
   width: 95%;
   position: absolute;
   top: -2px;
+  z-index: 20;
   left: 50%;
   transform: translateX(-50%);
-  z-index: 20;
 }
 
 .place-overlay {
